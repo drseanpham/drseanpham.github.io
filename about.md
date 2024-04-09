@@ -4,26 +4,27 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Dr. Pham completed Doctor of Philosophy at the University of New South Wales followed by Doctor of Medicine at the Sydney Medical School. He holds a diploma in Child Health, a certificate in Emergency Medicine, and the FPAA National Certificate in Reproductive & Sexual Health. Dr. Pham has extensive medical experience across various Sydney hospitals, including Westmead, Blacktown and Cumberland, as well as abundant general practising at more regional settings such as Gunnedah, Tamworth and Merimbula. He is also an accredited ALS / APLS provider and a member of the Australasian College of Skin Cancer. He is a strong believer in holistic patient-centred preventative care with the objective of achieving best health outcomes for his patients. </p>
+<p>Dr. Pham completed a Doctor of Philosophy at the University of New South Wales, followed by a Doctor of Medicine at the Sydney Medical School. He is a Diplomate member of the Australasian College of Emergency Medicine (ACEM) and a member of the Australasian College of Skin Cancer. Additionally, Dr. Pham holds diplomas in Child Health and Emergency Medicine, as well as the FPAA National Certificate in Reproductive & Sexual Health. With extensive medical experience across various Sydney hospitals, including Westmead, Blacktown, and Cumberland hospitals, he has also practiced extensively in general practice settings in Sydney metropolitan and regional areas such as Gunnedah, Tamworth, and Merimbula. Dr. Pham is also accredited as an ALS/APLS provider. He has a keen interest in skin cancer and procedural dermatology, and he strongly believes in holistic, patient-centered preventative care, aiming to achieve the best health outcomes for his patients. </p>
 
 <p>Personal interests: Dr. Pham enjoys spending time travelling with his family when not at work. Additionally, he is also a hobbyist gardener, a confident swimmer as well as enjoys being an avid Lego master builder with his little boy.</p>
 
 <h2>Area of interest</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Procedures/minor surgeries</li>
+	<li>General Dermatology</li>
+	<li>Skin cancer</li>
+	<li>Skin cancer Checks</li>
+	<li>Paediatric Health</li>
+	<li>Sexual and reproductive health</li>
+	<li>Insertion & removal of contraseptive implant</li>
+	<li>Infectious diseases</li>
+	<li>Indigenous health</li>
+	<li>Chronic disease management</li>
+	<li>Obesity</li>
+	<li>Travel medicine/li>
+	<li>Worker's Compensation</li>
+	<li>Mental health</li>
 </ul>
 
 <h2>Languages spoken</h2>
