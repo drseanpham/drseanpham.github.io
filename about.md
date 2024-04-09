@@ -46,6 +46,6 @@ layout: page
 <h2>Book appointments</h2>
 
 <ul>
-	<li><a href="https://www.hotdoc.com.au/medical-centres/carlingford-NSW-2118/carlingford-epping-surgery/doctors?wp=w_lightbox">Carlingford</a></li>
-	<li><a href="https://www.hotdoc.com.au/medical-centres/epping-NSW-2121/carlingford-epping-surgery-epping/doctors?wp=w_lightbox">Epping</a></li>
+	<li><a href="https://www.hotdoc.com.au/medical-centres/carlingford-NSW-2118/carlingford-epping-surgery/doctors/dr-sean-pham-9">Carlingford</a></li>
+	<li><a href="https://www.hotdoc.com.au/medical-centres/epping-NSW-2121/carlingford-epping-surgery-epping/doctors/dr-sean-pham-10">Epping</a></li>
 </ul>
