@@ -3,7 +3,7 @@ title: Dr Sean Pham
 bio: B.Tech. Hons, M.D., Ph.D., SCHP Dip, Dip EM (ACEM), FPAA Cert, FRACGP / FARGP Registrar at Nuvo Health, ED Registrar at NSW Health
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Dr Sean Pham
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://drseanpham.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -42,18 +42,12 @@ github: mygithub
 email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  Sean Pham:
+    name: Sean Pham
+    bio: B.Tech. Hons, M.D., Ph.D., SCHP Dip, Dip EM (ACEM), FPAA Cert
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: sontruongpham
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
