@@ -10,7 +10,7 @@ layout: page
 
 <h2>Area of interest</h2>
 
-<ul> class="skill-list">
+<ul class="skill-list">
 	<li>Procedures/minor surgeries</li>
 	<li>General Dermatology</li>
 	<li>Skin cancer</li>
@@ -22,7 +22,7 @@ layout: page
 	<li>Indigenous health</li>
 	<li>Chronic disease management</li>
 	<li>Obesity</li>
-	<li>Travel medicine/li>
+	<li>Travel medicine</li>
 	<li>Worker's Compensation</li>
 	<li>Mental health</li>
 </ul>
