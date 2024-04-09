@@ -10,7 +10,7 @@ layout: page
 
 <h2>Area of interest</h2>
 
-<ul class="skill-list">
+<ul> class="skill-list">
 	<li>Procedures/minor surgeries</li>
 	<li>General Dermatology</li>
 	<li>Skin cancer</li>
