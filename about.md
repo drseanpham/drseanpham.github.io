@@ -37,7 +37,7 @@ layout: page
 <h2>Clinics and affiliated hospitals</h2>
 
 <ul>
-	<li><a href="ttps://nuvohealth.com.au/medical-centre/lane-cove-doctors-medical-centre/">Lane Cove Doctors Medical Centre</a></li>
+	<li><a href="https://nuvohealth.com.au/medical-centre/lane-cove-doctors-medical-centre/">Lane Cove Doctors Medical Centre</a></li>
 	<li><a href="https://nuvohealth.com.au/medical-centre/epping/">Carlingford Epping Surgery</a></li>
 	<li><a href="https://www.wslhd.health.nsw.gov.au/Blacktown-Mount-Druitt-Hospital">Blacktown Hospital</a></li>
 	<li><a href="hhttps://www.swslhd.health.nsw.gov.au/CCQ/">Campbelltown Hospital</a></li>
